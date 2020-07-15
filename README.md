@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about nothing
 - 📫 How to reach me: call
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he,him
 - ⚡ Fun fact: nothing
