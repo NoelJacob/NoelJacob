@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=NoelJacob)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning nothing
